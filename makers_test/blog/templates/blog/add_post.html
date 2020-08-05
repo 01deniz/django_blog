@@ -8,7 +8,7 @@
     <h1>Add new post</h1>
     <form method="post" enctype="multipart/form-data">
         {% csrf_token %}
-        {{ post_form.as_p }}
+        {{ form.as_p }}
 <!--        то, что прилетело из context во views-->
         <button type="submit" value="Submit">Submit</button>
     </form>
