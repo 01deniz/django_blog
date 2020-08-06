@@ -1,5 +1,5 @@
 """
-WSGI config for makers_test_ project.
+WSGI config for makers_test project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 

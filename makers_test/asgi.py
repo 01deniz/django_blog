@@ -1,5 +1,5 @@
 """
-ASGI config for makers_test_ project.
+ASGI config for makers_test project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
